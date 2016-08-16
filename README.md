@@ -1,5 +1,6 @@
 # Auroras.live Changelog
-A _*_ denotes an unreleased or beta product
+A _*_ denotes an unreleased or beta product. Dates are in the form of day / month / year
+
 ## Mobile App
 
 ### 0.8.0
@@ -8,7 +9,6 @@ All changes apply to free and paid versions, except where noted.
  - Initial Play Store release
  - Free: Updated icon to denote free version
 
-
 ## Pebble Watch
 ### 1.0.0
  - Initial public version
@@ -16,6 +16,9 @@ All changes apply to free and paid versions, except where noted.
 ## Website
 ### Master
  - Initial public version
+
+### 16/08/2016
+ - Changed the dash in the temperature to a colon to avoid confusion to people who live in places where the temperature drops below 0
 
 ## API
 ### v1
