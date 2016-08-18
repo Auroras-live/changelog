@@ -27,4 +27,7 @@ All changes apply to free and paid versions, except where noted.
 ### August 5th, 2016
  - Fixed a bug where the Kp value in the current conditions embed image would appear black if > 4 but < 6
 
+### Augist 18th, 2016
+ - Fixed a bug where timezone offsets weren't being applied correctly. 
+
 ## Other
