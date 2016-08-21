@@ -17,7 +17,7 @@ All changes apply to free and paid versions, except where noted.
  - Day selector on Kp forecast page now has a [different colour](https://github.com/Auroras-live/issues/issues/2) to make it easier to see when you've changed the date
  - Tweaked temperature on the weather page to [avoid confusion](https://github.com/Auroras-live/issues/issues/1) for those who live in areas where the temperature drops below zero
  - A message is now displayed when loading the data times out. Pressing OK will attempt to reload the data
- - Fixed bug where the app would [fail to register](https://github.com/Auroras-live/issues/issues/12) you for push notifications if you set a Kp < 3
+ - Fixed bug where the app would [let you pick](https://github.com/Auroras-live/issues/issues/12) invalid values for push notifications
 
 ## Pebble Watch
 ### 1.0.0
