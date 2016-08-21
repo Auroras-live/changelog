@@ -8,6 +8,14 @@ All changes apply to free and paid versions, except where noted.
 
  - Initial Play Store release
  - Free: Updated icon to denote free version
+ 
+### 0.9.0*
+
+ - Free: Fixed potential bug where [ads would prevent data from loading](https://github.com/Auroras-live/issues/issues/11)
+ - Share icon is now [platform specific](https://github.com/Auroras-live/issues/issues/8) (e.g. Android shows Android share icon, iOS shows iOS)
+ - [Back button behaviour fixed](https://github.com/Auroras-live/issues/issues/7). You now have to press back twice to exit the app
+ - Day selector on Kp forecast page now has a [different colour](https://github.com/Auroras-live/issues/issues/2) to make it easier to see when you've changed the date
+ - Tweaked temperature on the weather page to [avoid confusion](https://github.com/Auroras-live/issues/issues/1) for those who live in areas where the temperature drops below zero
 
 ## Pebble Watch
 ### 1.0.0
