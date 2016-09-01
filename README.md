@@ -30,6 +30,9 @@ All changes apply to free and paid versions, except where noted.
 ### 16/08/2016
  - Changed the dash in the temperature to a colon to avoid confusion to people who live in places where the temperature drops below 0
 
+### 01/09/2016
+ - Fixed a typo in the himawari-nz image. Now the satellite image should load correctly
+ 
 ## API
 ### v1
  - Initial public version
