@@ -40,7 +40,10 @@ All changes apply to free and paid versions, except where noted.
 ### August 5th, 2016
  - Fixed a bug where the Kp value in the current conditions embed image would appear black if > 4 but < 6
 
-### Augist 18th, 2016
+### August 18th, 2016
  - Fixed a bug where timezone offsets weren't being applied correctly. 
+
+### September 4th, 2016
+ - Bumped the throttle limit for push notification registration from 1 per 10 seconds to 2 per 10 seconds. This should eliminate a bunch of app errors for people.
 
 ## Other
