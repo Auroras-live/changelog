@@ -18,6 +18,7 @@ All changes apply to free and paid versions, except where noted.
  - Tweaked temperature on the weather page to [avoid confusion](https://github.com/Auroras-live/issues/issues/1) for those who live in areas where the temperature drops below zero
  - A message is now displayed when loading the data times out. Pressing OK will attempt to reload the data
  - Fixed bug where the app would [let you pick](https://github.com/Auroras-live/issues/issues/12) invalid values for push notifications
+ - Fixed date on the three day Kp forecast page (shows Day Name / Day of the month, instead of Month, Day of the Month)
 
 ## Pebble Watch
 ### 1.0.0
