@@ -46,5 +46,8 @@ All changes apply to free and paid versions, except where noted.
 
 ### September 4th, 2016
  - Bumped the throttle limit for push notification registration from 1 per 10 seconds to 2 per 10 seconds. This should eliminate a bunch of app errors for people.
+  
+### September 24th, 2016
+ - Added state to the weather->location
 
 ## Other
