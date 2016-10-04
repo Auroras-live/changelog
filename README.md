@@ -49,5 +49,8 @@ All changes apply to free and paid versions, except where noted.
   
 ### September 24th, 2016
  - Added state to the weather->location
+ 
+### October 4th, 2016
+ - Added humidity to the weather, primarily for the [weathercam](http://github.com/auroras.live/weathercam)
 
 ## Other
