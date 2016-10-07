@@ -9,7 +9,7 @@ All changes apply to free and paid versions, except where noted.
  - Initial Play Store release
  - Free: Updated icon to denote free version
  
-### 0.9.0*
+### 0.9.x*
 
  - Free: Fixed potential bug where [ads would prevent data from loading](https://github.com/Auroras-live/issues/issues/11)
  - Share icon is now [platform specific](https://github.com/Auroras-live/issues/issues/8) (e.g. Android shows Android share icon, iOS shows iOS)
@@ -19,7 +19,10 @@ All changes apply to free and paid versions, except where noted.
  - A message is now displayed when loading the data times out. Pressing OK will attempt to reload the data
  - Fixed bug where the app would [let you pick](https://github.com/Auroras-live/issues/issues/12) invalid values for push notifications
  - Fixed date on the three day Kp forecast page (shows Day Name / Day of the month, instead of Month, Day of the Month)
-
+ - Map colours updated to be easier on the eye
+ - Added status messages to the loading overlay so you know at what stage the loading process is. 
+ - Added loading bar so you can see (in addition to the loading statuses) how loading of data is progressing
+ 
 ## Pebble Watch
 ### 1.0.0
  - Initial public version
