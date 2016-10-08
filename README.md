@@ -9,7 +9,7 @@ All changes apply to free and paid versions, except where noted.
  - Initial Play Store release
  - Free: Updated icon to denote free version
  
-### 0.9.x*
+### 0.9.7
 
  - Free: Fixed potential bug where [ads would prevent data from loading](https://github.com/Auroras-live/issues/issues/11)
  - Share icon is now [platform specific](https://github.com/Auroras-live/issues/issues/8) (e.g. Android shows Android share icon, iOS shows iOS)
