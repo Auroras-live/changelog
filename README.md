@@ -37,6 +37,9 @@ All changes apply to free and paid versions, except where noted.
 ### September 1st, 2016
  - Fixed a typo in the himawari-nz image. Now the satellite image should load correctly
  
+### October 16th, 2016
+ - Added a clock icon to time-sensitive widgets. This tells you that the times shown are local and not UTC
+ 
 ## API
 ### v1
  - Initial public version
