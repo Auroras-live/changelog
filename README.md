@@ -60,4 +60,8 @@ All changes apply to free and paid versions, except where noted.
  - Added humidity to the weather, primarily for the [weathercam](http://github.com/auroras.live/weathercam)
  - Sunrise, sunset, moonrise and moonset times are now timezone aware. Previously they were returned as UTC only
 
+### October 16th, 2016
+ - Bug fixed with iOS notifications (free version)
+ - [Bug fixed with push notifications](https://github.com/Auroras-live/issues/issues/15) (all versions)
+
 ## Other
