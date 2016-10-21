@@ -40,6 +40,12 @@ All changes apply to free and paid versions, except where noted.
 ### October 16th, 2016
  - Added a clock icon to time-sensitive widgets. This tells you that the times shown are local and not UTC
  
+### October 21st, 2016
+ - Changed map theme
+ - Added weathercam to map
+ - Added day / night overlay
+ - New map icons for a slicker look
+ 
 ## API
 ### v1
  - Initial public version
