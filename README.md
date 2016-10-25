@@ -69,5 +69,8 @@ All changes apply to free and paid versions, except where noted.
 ### October 16th, 2016
  - Bug fixed with iOS notifications (free version)
  - [Bug fixed with push notifications](https://github.com/Auroras-live/issues/issues/15) (all versions)
+ 
+### October 25th, 2016
+ - Updated AuroraMAX webcam URL to new 1080p version
 
 ## Other
