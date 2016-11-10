@@ -72,5 +72,8 @@ All changes apply to free and paid versions, except where noted.
  
 ### October 25th, 2016
  - Updated AuroraMAX webcam URL to new 1080p version
+ 
+### November 10th, 2016
+ - Fixed bug in `&format=xml` parameter
 
 ## Other
