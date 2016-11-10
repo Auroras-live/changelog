@@ -23,6 +23,10 @@ All changes apply to free and paid versions, except where noted.
  - Added status messages to the loading overlay so you know at what stage the loading process is. 
  - Added loading bar so you can see (in addition to the loading statuses) how loading of data is progressing
  
+### 0.9.8 *
+ - Added 500 rule calculator to the new tools menu
+ - Fixed [issue #16](https://github.com/Auroras-live/issues/issues/16) where iOS screen brightness would reset every time you open the app.
+ 
 ## Pebble Watch
 ### 1.0.0
  - Initial public version
