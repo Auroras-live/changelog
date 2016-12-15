@@ -79,5 +79,8 @@ All changes apply to free and paid versions, except where noted.
  
 ### November 10th, 2016
  - Fixed bug in `&format=xml` parameter
+ 
+### December 13th, 2016
+ - Added throttling to the main API. Any more than 10 calls a second and you get blocked for 5 minutes. This was done to negate a DDOS on the site. Please contact admin@auroras.live for access 
 
 ## Other
