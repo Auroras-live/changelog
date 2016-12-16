@@ -83,4 +83,8 @@ All changes apply to free and paid versions, except where noted.
 ### December 13th, 2016
  - Added throttling to the main API. Any more than 10 calls a second and you get blocked for 5 minutes. This was done to negate a DDOS on the site. Please contact admin@auroras.live for access 
 
+### December 16th, 2016
+ - Added `jsonp` as a format. See [auroraslive.io](http://auroraslive.io) > API > Introduction for developer docs
+ - Added `colour` as a colour format alongside `hex` and `rgb`. See the developer docs for information 
+
 ## Other
