@@ -86,5 +86,8 @@ All changes apply to free and paid versions, except where noted.
 ### December 16th, 2016
  - Added `jsonp` as a format. See [auroraslive.io](http://auroraslive.io) > API > Introduction for developer docs
  - Added `colour` as a colour format alongside `hex` and `rgb`. See the developer docs for information 
+ 
+### December 18th, 2016
+ - Modified the logging functions so they now store the IP address. This is only used internally to help diagnose errors and better prevent DOS attacks. 
 
 ## Other
