@@ -89,5 +89,8 @@ All changes apply to free and paid versions, except where noted.
  
 ### December 18th, 2016
  - Modified the logging functions so they now store the IP address. This is only used internally to help diagnose errors and better prevent DOS attacks. 
+ 
+### December 19th, 2016
+ - Caching has been rebuilt. When a call is made, the item is grabbed from the cache if it exists. If it doesn't, it is cached and returned. The `Expires` header is grabbed from the originating source, and that is the item's expiry time. If `Expires` isn't returned by the third party server, the item is cached for 60 seconds. This reduces the load time from approximately 5 seconds, down to 1 second during heavy use, and approximately 2-3 seconds during quieter times.
 
 ## Other
