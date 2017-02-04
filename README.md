@@ -94,6 +94,6 @@ All changes apply to free and paid versions, except where noted.
  - Caching has been rebuilt. When a call is made, the item is grabbed from the cache if it exists. If it doesn't, it is cached and returned. The `Expires` header is grabbed from the originating source, and that is the item's expiry time. If `Expires` isn't returned by the third party server, the item is cached for 60 seconds. This reduces the load time from approximately 5 seconds, down to 1 second during heavy use, and approximately 2-3 seconds during quieter times.
  
 ### February 5th, 2017
- - Caching has been tweaked. If the requested information has been cached (and is still valid), it is returned to the user. If the item is expired or not cached, it is fetched again and recached. If the fetching and recaching fails (which will occur if the fetching takes longer than 10 seconds), the last copy of the information is retrieved from the database. If the item doesn't appear in the database, an error is thrown. This fixes Auroras-live/issues#19
+ - Caching has been tweaked. If the requested information has been cached (and is still valid), it is returned to the user. If the item is expired or not cached, it is fetched again and recached. If the fetching and recaching fails (which will occur if the fetching takes longer than 10 seconds), the last copy of the information is retrieved from the database. If the item doesn't appear in the database, an error is thrown. This fixes [issue 19](https://github.com/Auroras-live/issues/issues/19)
 
 ## Other
