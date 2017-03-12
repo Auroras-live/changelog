@@ -50,6 +50,9 @@ All changes apply to free and paid versions, except where noted.
  - Added day / night overlay
  - New map icons for a slicker look
  
+### March 12th, 2017
+ - Added colours to the thee day, nowcast and Kp widgets
+ 
 ## API
 ### v1
  - Initial public version
