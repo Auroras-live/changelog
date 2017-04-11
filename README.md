@@ -98,5 +98,8 @@ All changes apply to free and paid versions, except where noted.
  
 ### February 5th, 2017
  - Caching has been tweaked. If the requested information has been cached (and is still valid), it is returned to the user. If the item is expired or not cached, it is fetched again and recached. If the fetching and recaching fails (which will occur if the fetching takes longer than 10 seconds), the last copy of the information is retrieved from the database. If the item doesn't appear in the database, an error is thrown. This fixes [issue 19](https://github.com/Auroras-live/issues/issues/19)
+ 
+### April 11th, 2017
+ - Bugfix for SQL caching. Prevously the caching method would cache the SQL query, which included parameters, but not parameter values. The caching method now takes into account the parameter values, so now things like the archives should now start working again.
 
 ## Other
