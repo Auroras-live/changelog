@@ -102,4 +102,7 @@ All changes apply to free and paid versions, except where noted.
 ### April 11th, 2017
  - Bugfix for SQL caching. Prevously the caching method would cache the SQL query, which included parameters, but not parameter values. The caching method now takes into account the parameter values, so now things like the archives should now start working again.
 
+### August 10th, 2017
+ - Added `kp1minute`. Call like so: https://api.auroras.live/v1/?type=ace&data=kp1minute
+
 ## Other
