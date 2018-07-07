@@ -105,4 +105,7 @@ All changes apply to free and paid versions, except where noted.
 ### August 10th, 2017
  - Added `kp1minute`. Call like so: https://api.auroras.live/v1/?type=ace&data=kp1minute
 
+### June 29th, 2018
+ - Wing Kp has been removed from the SWPC site, so until further notice, Kp 1 hour and Kp 4 hour values will be equal to the current Kp. Future revisions will use the 3 day Kp data to calculate 1 and 3 hour Kp forecasts.
+
 ## Other
